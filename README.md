@@ -58,6 +58,7 @@ Time Period: Static transactional dataset
 - Sales by Time Slot  
 - Weekday vs Weekend Comparison  
 - Top 5 Menu Items  
+<img width="1465" height="794" alt="Screenshot 2026-05-07 215015" src="https://github.com/user-attachments/assets/6ada92e6-0fe7-4ce5-aac4-99560a34c7e8" />
 
 ---
 
